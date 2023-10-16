@@ -1,0 +1,14 @@
+public class p116 {
+    public static void main(String[] args) {
+        for (int i = 1; i <= 100; i++) {
+            if ( i % 3 == 0 && i % 5 == 0) {
+                System.out.printf("\n%d: fizz buss", i);
+            } else if(i % 5 == 0) {
+                System.out.printf("\n%d: buss",i);
+            } else if(i % 3 == 0) {
+                System.out.printf("\n%d: fizz",i);
+            }
+        }
+        System.out.println("\n");
+    }
+}
