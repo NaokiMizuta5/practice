@@ -1,6 +1,5 @@
-# practice
-This is just playground for me. 
-Mostly I write Java programs.
-So you can look at them, but not enough for practical use but for getting used to Java.
-However I refer a website, "Java Basic Programming: Exercises, Practice, Solution". Thank the writer for helping us.
-Then have a fulfilling coding life ! (but you need to be patient)
+# About
+This is a playground for my Java practice. 
+Although the programs I write are primarily in Java, they might not be suitable for practical use. 
+They're mainly for familiarizing myself with Java. 
+I'd like to acknowledge the website "Java Basic Programming: Exercises, Practice, Solution" for assisting me. 
